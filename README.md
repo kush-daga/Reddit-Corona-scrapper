@@ -3,7 +3,8 @@ So i was going through the coronavirus subreddit and found a really important po
 
 # Dev
 To get started fork this repo, and install the dependencies required. 
-
+Also make sure to create a reddit app, using your account and get the api keys.
+I would recommend following Sentdex's youtube tutorial for the same.
 Dependencies: 
   Python3
   mdutils
